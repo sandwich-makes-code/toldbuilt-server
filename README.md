@@ -11,7 +11,7 @@ Now double-click server_generator.py, or right-click two times on server_generat
 
 Generate a server with this application.
 
-Running servers are found in the other application in one of the servers called main.py at ' C:\Users\nikra\OneDrive\Documents\ToldbuiltContainer \servers\My New Server-????\main.py', but you can also generate a server 
+Running servers are found in the other application in one of the servers called main.py at ' C:\Users\YOUR_USER\OneDrive\Documents\ToldbuiltContainer \servers\My New Server-????\main.py', but you can also generate a server 
 
 container with this application.
 
